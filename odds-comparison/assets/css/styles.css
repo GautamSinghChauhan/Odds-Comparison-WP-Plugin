@@ -1,0 +1,9 @@
+.odds-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.odds-table th, .odds-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
